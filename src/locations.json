@@ -1,0 +1,32 @@
+[
+  {
+    "img": "src/assets/limantour_beach.jpeg",
+    "location": "Limantour Beach",
+    "rating": 9.4,
+    "bullet_point_data": [
+      "Reason: Best secluded beach spot that allows bonfires, and sunset is super pretty",
+      "Distance: 1.5 hr drive from San Francisco",
+      "Tip: Super pretty when the sun sets, but make sure to bring a flashlight since there's no streetlight"
+    ]
+  },
+  {
+    "img": "src/assets/little_yosemite.jpeg",
+    "location": "Little Yosemite",
+    "rating": 8.8,
+    "bullet_point_data": [
+      "Reason: Best secluded hiking spot that has a waterfall and a small lake",
+      "Distance: 1 hr drive from San Francisco",
+      "Tip: Bring 5 dollars in cash for parking or go in before 7am to get free parking -- but it's niche so dw ab parking space"
+    ]
+  },
+  {
+    "img": "src/assets/stinon_view_point.jpeg",
+    "location": "Stinson Beach View Point",
+    "rating": 9.1,
+    "bullet_point_data": [
+      "Reason: Beach is popular but view point is not. You're above the clouds and can see the ocean, mountain, and sunset",
+      "Distance: 1 hr drive from San Francisco",
+      "Tip: Bring a jacket since it can get quite chilly at the top"
+    ]
+  }
+]
